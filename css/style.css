@@ -70,6 +70,7 @@ main p {
   line-height: 1.65;
   font-size: 15px;
   font-family: "Open Sans", sans-serif;
+  padding-bottom: 10px;
 }
 
 main :nth-child(3) {
